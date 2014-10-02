@@ -40,7 +40,7 @@ You ([customer name]), located at [customer address] are hiring me (Thomas Näge
 
 ## Getting down to the nitty gritty
 
-### HTML, CSS and JavaScript
+### HTML, CSS/Sass and JavaScript
 
 I deliver web page types developed from HTML5 markup, CSS2.1 + 3 (powered by Sass) stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours. I do not deliver any server-side code or features but I will coordinate my work with your back-end developer to ensure that your front- and back-end function well together.
 
@@ -76,8 +76,6 @@ I'm not a website hosting company so I don’t offer support for website hosting
 
 I can’t guarantee that my work will be error-free and so I can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised me of them. Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-Phew.
-
 ### Copyrights
 
 First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them.
@@ -99,8 +97,6 @@ I'm sure you understand how important it is as a freelancer that you pay the inv
 Just like a parking ticket, you can’t transfer this contract to anyone else without my permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
 Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of German courts.
-
-Oh and don’t forget those men with big dogs.
 
 ### The dotted line
 
