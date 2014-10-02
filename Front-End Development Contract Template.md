@@ -38,11 +38,13 @@ You ([customer name]), located at [customer address] are hiring me (Thomas Näge
 
 *I:* I have the experience and ability to do everything I’ve agreed with you and I’ll do it all in a professional and timely manner. I’ll endeavour to meet every deadline that’s set and on top of that I'll maintain the confidentiality of everything you give me.
 
-## Getting down to the nitty gritty
+## Deliverables
 
 ### HTML, CSS/Sass and JavaScript
 
 I deliver web page types developed from HTML5 markup, CSS2.1 + 3 (powered by Sass) stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours. I do not deliver any server-side code or features but I will coordinate my work with your back-end developer to ensure that your front- and back-end function well together.
+
+## Contents
 
 ### Text content
 
@@ -51,6 +53,8 @@ I’m not responsible for writing or inputting any text copy.
 ### Photographs
 
 You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, I can suggest stock libraries. If you’d like me to search for photographs for you, I can provide a separate estimate for that.
+
+## Testing
 
 ### Browser testing
 
@@ -68,15 +72,15 @@ iOS: Safari
 
 I currently don’t test Google Android, Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need me to test using these, we will need to find a way of getting the necessary devices.
 
-### Technical support
+## Technical support
 
 I'm not a website hosting company so I don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, I can set up an account for you at one of my preferred hosting providers. I can set up your site on a server, plus any statistics software such as Google Analytics and I can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
 
-### Legal stuff
+## Legal stuff
 
 I can’t guarantee that my work will be error-free and so I can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised me of them. Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-### Copyrights
+## Copyrights
 
 First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them.
 
@@ -86,19 +90,19 @@ You’ll own the code that I write for this project. I give you source files and
 
 I love to show off my work and share what I’ve learned with other people, so I reserve the right, with your permission, to display and link to your project as part of my portfolio and to write about it on websites, in magazine articles and in books.
 
-### Payments
+## Payments
 
 I'm sure you understand how important it is as a freelancer that you pay the invoices that we send you promptly. As I'm also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
 
 [Payment schedule]
 
-### But where’s all the horrible small print?
+## Small print
 
 Just like a parking ticket, you can’t transfer this contract to anyone else without my permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
 Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of German courts.
 
-### The dotted line
+## The dotted line
 
 Signed by and on behalf of Thomas Nägele
 Signed by and on behalf of [customer name]
