@@ -66,7 +66,7 @@ Testing popular small-screen devices is essential in ensuring that a person’s 
 
 iOS: Safari
 
-I currently don’t test Google Android, Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need me to test using these, we will need to find a way of getting the according devices.
+I currently don’t test Google Android, Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need me to test using these, we will need to find a way of getting the necessary devices.
 
 ### Technical support
 
