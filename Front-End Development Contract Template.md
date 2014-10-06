@@ -18,11 +18,11 @@ This open source contract is based on the following templates
 
 **Thomas Nägele, ‘I’:**
 
-[Address]
+[my address]
 
-**[Name], ‘The Client’, ‘You’:**
+**[customer name], ‘The Client’, ‘You’:**
 
-[Address]
+[customer address]
 
 ## Summary
 
@@ -34,9 +34,9 @@ You ([customer name]), located at [customer address] are hiring me (Thomas Näge
 
 ## What do both parties agree to do?
 
-*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give me everything I need to complete the project as and when and in the format I need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give me everything I need to complete the project as and when and in the format I need it. You’ll review my work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
-*I:* I have the experience and ability to do everything I’ve agreed with you and I’ll do it all in a professional and timely manner. I’ll endeavour to meet every deadline that’s set and on top of that I'll maintain the confidentiality of everything you give me.
+*I:* I have the experience and ability to do everything I’ve agreed with you and I’ll do it all in a professional and timely manner. I’ll endeavour to meet every deadline that’s set and on top of that I’ll maintain the confidentiality of everything you give me.
 
 ## Deliverables
 
@@ -74,7 +74,7 @@ I currently don’t test Google Android, Blackberry, Opera Mini/Mobile, Windows 
 
 ## Technical support
 
-I'm not a website hosting company so I don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, I can set up an account for you at one of my preferred hosting providers. I can set up your site on a server, plus any statistics software such as Google Analytics and I can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
+I’m not a website hosting company so I don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, I can set up an account for you at one of my preferred hosting providers. I can set up your site on a server, plus any statistics software such as Google Analytics and I can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
 
 ## Legal stuff
 
@@ -86,13 +86,13 @@ First, you guarantee that all elements of text, images or other artwork you prov
 
 Then, when your final payment has cleared, copyright will be automatically assigned as follows:
 
-You’ll own the code that I write for this project. I give you source files and finished files and you should keep them somewhere safe as I'm not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them.
+You’ll own the code that I write for this project. I give you source files and finished files and you should keep them somewhere safe as I’m not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them.
 
 I love to show off my work and share what I’ve learned with other people, so I reserve the right, with your permission, to display and link to your project as part of my portfolio and to write about it on websites, in magazine articles and in books.
 
 ## Payments
 
-I'm sure you understand how important it is as a freelancer that you pay the invoices that we send you promptly. As I'm also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
+I’m sure you understand how important it is as a freelancer that you pay the invoices that we send you promptly. As I’m also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
 
 [Payment schedule]
 
